@@ -1,0 +1,10 @@
+C:\Users\rosma\source\repos\solucion multicapas\CapaEntidad\bin\Debug\CapaEntidad.dll
+C:\Users\rosma\source\repos\solucion multicapas\CapaEntidad\bin\Debug\CapaEntidad.pdb
+C:\Users\rosma\source\repos\solucion multicapas\CapaEntidad\bin\Debug\Microsoft.Analytics.Interfaces.dll
+C:\Users\rosma\source\repos\solucion multicapas\CapaEntidad\bin\Debug\Microsoft.Analytics.Interfaces.Streaming.dll
+C:\Users\rosma\source\repos\solucion multicapas\CapaEntidad\bin\Debug\Microsoft.Analytics.Types.dll
+C:\Users\rosma\source\repos\solucion multicapas\CapaEntidad\obj\Debug\CapaEntidad.csproj.AssemblyReference.cache
+C:\Users\rosma\source\repos\solucion multicapas\CapaEntidad\obj\Debug\CapaEntidad.csproj.CoreCompileInputs.cache
+C:\Users\rosma\source\repos\solucion multicapas\CapaEntidad\obj\Debug\CapaEntidad.csproj.CopyComplete
+C:\Users\rosma\source\repos\solucion multicapas\CapaEntidad\obj\Debug\CapaEntidad.dll
+C:\Users\rosma\source\repos\solucion multicapas\CapaEntidad\obj\Debug\CapaEntidad.pdb
