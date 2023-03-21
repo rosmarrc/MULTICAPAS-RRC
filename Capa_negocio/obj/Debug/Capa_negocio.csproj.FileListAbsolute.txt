@@ -1,0 +1,10 @@
+C:\Users\rosma\source\repos\login_y_registerCRUD_rrc\Capa_negocio\bin\Debug\Capa_negocio.dll
+C:\Users\rosma\source\repos\login_y_registerCRUD_rrc\Capa_negocio\bin\Debug\Capa_negocio.pdb
+C:\Users\rosma\source\repos\login_y_registerCRUD_rrc\Capa_negocio\bin\Debug\Microsoft.Analytics.Interfaces.dll
+C:\Users\rosma\source\repos\login_y_registerCRUD_rrc\Capa_negocio\bin\Debug\Microsoft.Analytics.Interfaces.Streaming.dll
+C:\Users\rosma\source\repos\login_y_registerCRUD_rrc\Capa_negocio\bin\Debug\Microsoft.Analytics.Types.dll
+C:\Users\rosma\source\repos\login_y_registerCRUD_rrc\Capa_negocio\obj\Debug\Capa_negocio.csproj.AssemblyReference.cache
+C:\Users\rosma\source\repos\login_y_registerCRUD_rrc\Capa_negocio\obj\Debug\Capa_negocio.csproj.CoreCompileInputs.cache
+C:\Users\rosma\source\repos\login_y_registerCRUD_rrc\Capa_negocio\obj\Debug\Capa_negocio.csproj.CopyComplete
+C:\Users\rosma\source\repos\login_y_registerCRUD_rrc\Capa_negocio\obj\Debug\Capa_negocio.dll
+C:\Users\rosma\source\repos\login_y_registerCRUD_rrc\Capa_negocio\obj\Debug\Capa_negocio.pdb

@@ -1,0 +1,12 @@
+C:\Users\rosma\source\repos\login_y_registerCRUD_rrc\Capa_datos\bin\Debug\Capa_datos.dll
+C:\Users\rosma\source\repos\login_y_registerCRUD_rrc\Capa_datos\bin\Debug\Capa_datos.pdb
+C:\Users\rosma\source\repos\login_y_registerCRUD_rrc\Capa_datos\bin\Debug\Capa_negocio.dll
+C:\Users\rosma\source\repos\login_y_registerCRUD_rrc\Capa_datos\bin\Debug\Microsoft.Analytics.Interfaces.dll
+C:\Users\rosma\source\repos\login_y_registerCRUD_rrc\Capa_datos\bin\Debug\Microsoft.Analytics.Interfaces.Streaming.dll
+C:\Users\rosma\source\repos\login_y_registerCRUD_rrc\Capa_datos\bin\Debug\Microsoft.Analytics.Types.dll
+C:\Users\rosma\source\repos\login_y_registerCRUD_rrc\Capa_datos\bin\Debug\Capa_negocio.pdb
+C:\Users\rosma\source\repos\login_y_registerCRUD_rrc\Capa_datos\obj\Debug\Capa_datos.csproj.AssemblyReference.cache
+C:\Users\rosma\source\repos\login_y_registerCRUD_rrc\Capa_datos\obj\Debug\Capa_datos.csproj.CoreCompileInputs.cache
+C:\Users\rosma\source\repos\login_y_registerCRUD_rrc\Capa_datos\obj\Debug\Capa_datos.csproj.CopyComplete
+C:\Users\rosma\source\repos\login_y_registerCRUD_rrc\Capa_datos\obj\Debug\Capa_datos.dll
+C:\Users\rosma\source\repos\login_y_registerCRUD_rrc\Capa_datos\obj\Debug\Capa_datos.pdb
